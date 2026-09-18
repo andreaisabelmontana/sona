@@ -160,7 +160,6 @@ with about:
     chart = ROOT / "artifacts" / "confusion_matrix.png"
     if chart.exists():
         st.image(str(chart), caption="Held-out test predictions against cluster labels")
-    st.markdown("Recreated from [Moodify by cayetana-h](https://github.com/cayetana-h/Moodify). Original Apache-2.0 license and attribution retained.")
 
 st.divider()
 st.caption("SONA · A little science. A lot of feeling.")
