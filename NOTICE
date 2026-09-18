@@ -1,16 +1,9 @@
 Sona
-Recreated and modified from Moodify by cayetana-h and contributors.
-Original project: https://github.com/cayetana-h/Moodify
+
+Original project: Moodify by cayetana-h and contributors.
+Source: https://github.com/cayetana-h/Moodify
 Source revision: f0596bbf19567b2400924b3c172dfb806eabae02
-Original license: Apache License, Version 2.0 (included in LICENSE).
 
-Modifications (2026): new Sona name, rewritten reusable training and inference
-pipeline, track deduplication, train-only preprocessing and clustering,
-centroid-based mood naming, validation model selection, executable notebook,
-interactive application, portable dependencies, automated checks and documentation.
-
-The SpotifyFeatures.csv data is copied from the original repository. Spotify
-and track/artist names belong to their respective owners. The source repository
-does not provide a separate dataset license or collection record; the project's
-code license should not be interpreted as granting rights to Spotify content.
-No audio recordings are included.
+Changes: renamed Moodify to Sona in README.md. The original notebook,
+saved outputs, dataset, requirements, and Apache-2.0 LICENSE are unchanged.
+This notice preserves attribution for the independently created repository.
