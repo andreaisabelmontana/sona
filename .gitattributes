@@ -1,0 +1,6 @@
+* text=auto
+*.csv text eol=lf
+*.py text eol=lf
+*.ipynb text eol=lf
+*.png binary
+*.joblib binary

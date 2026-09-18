@@ -1,0 +1,9 @@
+genre,artist_name,track_name,track_id,popularity,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence
+Children's Music,Juice Music,Miss Polly Had A Dolly,2oHaeQIabUQUXkI1aF9Ano,0,0.909,0.948,40827,0.35,0.0,D,0.11,-13.236,Major,0.108,116.65,4/4,0.807
+Classical,Iced Earth,Dark Saga,6V8vNnVazB8BtWFbZuxJrZ,32,0.00163,0.524,222427,0.949,0.0173,G#,0.127,-9.377,Major,0.0562,126.807,4/4,0.457
+Classical,Leroy Anderson,Sleigh Ride (arr. A. Gentile for piano),0FMykL0nV0rFh5eJlnvXIy,29,0.991,0.45,211504,0.225,0.836,F,0.0848,-19.679,Major,0.0341,96.98,4/4,0.432
+Opera,Francesco Cilea,Cilea: Adriana Lecouvreur; Act 1: Io son l'umile,6McrOXdZ2RGYIuZqgnqprg,6,0.959,0.297,371067,0.123,0.0088,G#,0.187,-19.686,Major,0.0477,132.874,3/4,0.0491
+Reggae,UB40,Homely Girl,0ZQLr5wK0UHSusW9fAdUdu,36,0.208,0.785,204840,0.371,0.00045,D,0.0448,-15.289,Major,0.0824,82.913,4/4,0.927
+Alternative,Otherwise,Coming for the Throne,6VKYuwheBypKvCC0LqdsmN,39,0.00131,0.457,190912,0.959,0.0,G#,0.116,-3.735,Major,0.116,170.092,4/4,0.572
+Ska,Prince Buster,Sit and Wonder (feat. Baba Brooks),7BM3QPpHwjtlh86OH3fh2n,20,0.38,0.924,168124,0.388,0.000192,C,0.108,-10.871,Minor,0.0449,94.675,4/4,0.966
+Dance,The Motels,Only The Lonely - Remastered 1999,1BZMMt9H0TheQGWQy44KmO,48,0.0503,0.649,196200,0.313,0.0017,G#,0.0864,-16.631,Major,0.0339,115.493,4/4,0.708

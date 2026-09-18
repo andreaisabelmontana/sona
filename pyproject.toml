@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sona-music"
+version = "1.0.0"
+description = "Explore and predict song mood with reproducible machine learning."
+readme = "README.md"
+requires-python = ">=3.11"
+license = "Apache-2.0"
+dependencies = [
+  "numpy>=1.26,<3", "pandas>=2.2,<4", "scipy>=1.13,<2",
+  "scikit-learn>=1.5,<2", "joblib>=1.4,<2", "matplotlib>=3.9,<4",
+  "threadpoolctl>=3.5,<4", "streamlit>=1.40,<2"
+]
+
+[project.optional-dependencies]
+research = ["xgboost>=2.1,<4", "imbalanced-learn>=0.13,<1"]
+dev = ["pytest>=8,<10", "nbformat>=5.10,<6", "nbclient>=0.10,<1", "ipykernel>=6.29,<8"]
+
+[tool.setuptools.packages.find]
+include = ["sona*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
